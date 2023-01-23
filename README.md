@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/rvdrover/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <figure><embed src="https://wakatime.com/share/@rvdrover/dec8fe2c-ba4f-4d44-a587-586661d0542b.svg"></embed></figure>
  
   <a href="https://twitter.com/rvdrover">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -24,7 +25,7 @@
 
 <a href="https://wakatime.com/@2b48b7c3-6e20-4952-ad0c-e5df5837c765"><img src="https://wakatime.com/badge/user/2b48b7c3-6e20-4952-ad0c-e5df5837c765.svg" alt="Total time coded since Aug 16 2021" /></a>
 
-<figure><embed src="https://wakatime.com/share/@rvdrover/dec8fe2c-ba4f-4d44-a587-586661d0542b.svg"></embed></figure>
+
 
 
 
