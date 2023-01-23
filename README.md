@@ -24,6 +24,8 @@
 
 <a href="https://wakatime.com/@2b48b7c3-6e20-4952-ad0c-e5df5837c765"><img src="https://wakatime.com/badge/user/2b48b7c3-6e20-4952-ad0c-e5df5837c765.svg" alt="Total time coded since Aug 16 2021" /></a>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@rvdrover/11964794-9f47-426e-ab6d-41057ceeadc6.png" /></a>
+
 
 
 
