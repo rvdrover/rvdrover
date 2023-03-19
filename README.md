@@ -19,7 +19,7 @@
 ![Ravidus GitHub stats](https://stat-rvdrover.vercel.app/api?username=rvdrover&count_private=true&show_icons=true&theme=tokyonight)&nbsp;
 
 ### Bitbucket stats
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@rvdrover/7403f634-9823-4b75-b9df-1e199705459a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@rvdrover/734f3f5b-a64f-4818-9bdc-c24e9002bac2.svg" /></a>
 
 ![Top Langs](https://stat-rvdrover.vercel.app/api/top-langs/?username=rvdrover&layout=compact&theme=tokyonight)&nbsp;
 
