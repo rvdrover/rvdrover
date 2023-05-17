@@ -16,15 +16,15 @@
 
 <div id="aa"align="center">
 
-![Ravidus GitHub stats](https://stat-c4fn05nhp-rvdrover.vercel.app/api?username=rvdrover&count_private=true&show_icons=true&theme=tokyonight)&nbsp;
+![Ravidus GitHub stats](https://stat-git-main-rvdrover.vercel.app/api?username=rvdrover&count_private=true&show_icons=true&theme=tokyonight)&nbsp;
 
 ### Bitbucket stats
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@rvdrover/deb0280a-d7c4-4443-b8e4-3ca189f22a24.png" /></a>
 
-![Top Langs](https://stat-c4fn05nhp-rvdrover.vercel.app/api/top-langs/?username=rvdrover&layout=compact&theme=tokyonight)&nbsp;
+![Top Langs](https://stat-git-main-rvdrover.vercel.app/api/top-langs/?username=rvdrover&layout=compact&theme=tokyonight)&nbsp;
 
 
-![Ravidus's wakatime stats](https://stat-c4fn05nhp-rvdrover.vercel.app/api/wakatime?username=rvdrover&layout=compact&theme=tokyonight)
+![Ravidus's wakatime stats](https://stat-git-main-rvdrover.vercel.app/api/wakatime?username=rvdrover&layout=compact&theme=tokyonight)
 
 <a href="https://wakatime.com/@2b48b7c3-6e20-4952-ad0c-e5df5837c765"><img src="https://wakatime.com/badge/user/2b48b7c3-6e20-4952-ad0c-e5df5837c765.svg" alt="Total time coded since Aug 16 2021" /></a>
   </a>
